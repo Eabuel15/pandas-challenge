@@ -1,0 +1,8 @@
+One obervable trend is that the most popular items purchases are, on average, over $4. The item, "Final Critic", 
+was purchased most frequently, at 13 times, priced at $4.61. 
+
+Despite being in the minority, females tend to spend $.18 more on average per item in the game
+and $.40 more on average per person compared to males.
+
+The age demographic of 20-24 populates the majority of our gamer base and tends to be male. And looking
+at the top spenders, the most items any individual has purchased in this game is 5 items. 
